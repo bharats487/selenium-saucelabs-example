@@ -14,12 +14,12 @@ public class SampleSauceTest {
 	/**
 	 * Your Sauce Labs username
 	 */
-	public static final String USERNAME = "YOUR_USERNAME";
+	public static final String USERNAME = "allex777";
 	
 	/**
 	 * Your Sauce Labs access key
 	 */
-	public static final String ACCESS_KEY = "YOUR_ACCESS_KEY";
+	public static final String ACCESS_KEY = "687ba6d7-f0d7-4119-9fa7-c332c14f2a94";
 	
 	/**
 	 * URL for Sauce Labs
